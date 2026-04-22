@@ -1,6 +1,0 @@
-2 is prime
-4 is not prime
-6 is not prime
-8 is not prime
-10 is not prime
-11 is prime
