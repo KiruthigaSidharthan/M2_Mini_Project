@@ -1,0 +1,6 @@
+city,temp_f,condition,wind_mph,humidity
+New York,61.0,Sunny,8.7,42
+Los Angeles,66.0,Sunny,11.9,43
+Chicago,66.0,Overcast,21.3,75
+Houston,86.2,Partly cloudy,13.4,62
+Phoenix,81.0,Sunny,12.1,14
